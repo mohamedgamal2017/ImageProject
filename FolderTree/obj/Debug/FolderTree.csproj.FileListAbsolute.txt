@@ -1,0 +1,9 @@
+H:\000000\FolderTree\FolderTree\bin\Debug\FolderTree.exe.config
+H:\000000\FolderTree\FolderTree\bin\Debug\FolderTree.exe
+H:\000000\FolderTree\FolderTree\bin\Debug\FolderTree.pdb
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.csprojResolveAssemblyReference.cache
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.Properties.Resources.resources
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.csproj.GenerateResource.Cache
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.exe
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.pdb
+H:\000000\FolderTree\FolderTree\obj\Debug\FolderTree.MainForm.resources
